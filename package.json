@@ -1,0 +1,31 @@
+{
+  "name": "json-server-learning",
+  "version": "1.0.0",
+  "description": "learning json server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieund20/json-server-learning.git"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Hieu Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hieund20/json-server-learning/issues"
+  },
+  "homepage": "https://github.com/hieund20/json-server-learning#readme",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "query-string": "^7.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
