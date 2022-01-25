@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "New Laptop 2",
+      "createdAt": 11666546465,
+      "updatedAt": 11666546465
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung S5",
+      "createdAt": 11666546465,
+      "updatedAt": 11666546465,
+      "categoryId": 1,
+      "price": 50
+    },
+    {
+      "id": 2,
+      "name": "Samsung S8",
+      "createdAt": 11666546465,
+      "updatedAt": 11666546465,
+      "categoryId": 1,
+      "price": 50
+    }
+  ]
+}
